@@ -1,5 +1,4 @@
 # MARS Recommended Report Naming Conventions
-
 - Introduction
 - Capitalization Conventions
 - Names of Users 
