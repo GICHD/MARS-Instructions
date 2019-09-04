@@ -1,7 +1,6 @@
-How to submit a bug using the email
+How to submit a bug using email
 ---- 
-
-To submit a new bug, the IMC staff can email the **MARS JIRA** system. __JIRA__ will create a task and you can track it JIRA dashboard. Once JIRA received an email and create the task, it will email to notify you of the creating of this task with a link.  
+To submit a new bug, the users can email directly to the **MARS JIRA** system. __The JIRA__ will create a task and you can track it the new task and others using the JIRA dashboard with your access. Once JIRA received an email it create the task, and it will notify you by email that there is a new task created as well a link.  
 
 This action will trigger a message to notify the MARS development project manager who will allocate resources to the new-created task.
 
