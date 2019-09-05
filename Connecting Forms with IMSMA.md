@@ -1,8 +1,9 @@
 
-# Publishing MARS Forms and IMSMA Field report GUID.
-Once IMSMA NG published a form it assign a GUID value to that form to link the reports, with the correct version of form. Hence when connecting any reports to an IMSMA form you will need to include the GUID to identify the correct published form and link it to the reports. 
 
-MARS uses the published form GUID when building the MaXML file to link the reports with the desired form in IMSMA NG. To accomplish this here are the recommended steps that MARS Organisation Administrators can follows.
+# Connecting Forms with IMSMA:
+Once IMSMA NG published a form it assign a `GUID` value to that form to link the reports, with the correct version of form. Hence when connecting any reports to an IMSMA form you will need to include the `GUID` to identify the correct published form and link it to the reports. 
+
+MARS uses the published form `GUID` when building the MaXML file to link the reports with the desired form in IMSMA NG. To accomplish this here are the recommended steps that MARS Organisation Administrators can follows.
 
 ## Export MaXML
 IMSMA NG creates a new report following the preferred method. In this example I will use the Data Entry menu item as a way to create a new report. 
