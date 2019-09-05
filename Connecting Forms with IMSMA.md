@@ -19,7 +19,9 @@ IMSMA NG creates a new report following the preferred method. In this example I 
 * In the `Export Options` make sure that the `XML Export` selected and click `Ok`
 * Select the folder you want to save the file and fill the file name in `File Name` field.
 * Click on `Save`
+
 	![][image-1]
+## 
 ## Getting the IMSMA Field Report GUID
 Once you have the `MaXML` file in your computer, open it using your favourite editor, here I will use the notepad++.
 * From the main menu click on `File` and select `Open...`
