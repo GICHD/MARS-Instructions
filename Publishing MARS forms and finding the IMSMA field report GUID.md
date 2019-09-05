@@ -44,4 +44,4 @@ Once you have the `MaXML` file in your computer, open it using your favourite ed
 * Fill the value we have it copied.
 this will conclude this process, and if you have any issue contact GICHD for support.
 
-[image-1]:	./images/ExportMaXML.png
+[image-1]:	https://github.com/GICHD/MARS-Instructions/blob/master/images/exportMaXml.png
