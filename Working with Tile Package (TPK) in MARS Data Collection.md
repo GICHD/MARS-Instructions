@@ -21,6 +21,7 @@ You can use the created Tile Packages with MARS. A MARS project requires a TPK o
 	```bash
 	\ANDROID\_DEVICE\_NAME\Internalstorage\Android\data\com.gichd.mars\_app\files
 	```
+  * sometimes the mars folder have a different name as `is.gambit.mars_app`, look for mars_app in the data folder.
   * rename your TPK to "mars.tpk"
   * copy the renamed file to the above location and replace the existing file
   * now when you open a map you will be using the new TPK file
